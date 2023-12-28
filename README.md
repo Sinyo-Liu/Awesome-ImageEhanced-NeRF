@@ -9,6 +9,7 @@ This repository contains a collection of resources and papers on NeRF With Image
 
 + **2024**
   - [AAAI 2024] [Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption](https://arxiv.org/pdf/2312.09093.pdf) 丨 [[Project Page](https://cuiziteng.github.io/Aleth_NeRF_web)] 丨 [[Code](https://github.com/cuiziteng/Aleth-NeRF)]
+  - [WACV 2024] [Deblur-NSFF: Neural Scene Flow Fields for Blurry Dynamic Scenes](https://openaccess.thecvf.com/content/WACV2024/papers/Luthra_Deblur-NSFF_Neural_Scene_Flow_Fields_for_Blurry_Dynamic_Scenes_WACV_2024_paper.pdf)
 
 
 + **2023**
