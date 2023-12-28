@@ -16,7 +16,7 @@ This repository contains a collection of resources and papers on NeRF With Image
   - [RA-L 2023] [Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery](https://arxiv.org/pdf/2304.03384.pdf)  丨 [[Code](https://github.com/tyz1030/neuralsea.git)]
   - [arxiv 2023] [WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction](https://arxiv.org/pdf/2312.06946.pdf)
   - [CVPR 2023] [RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf)
-  - [arxiv 2023] [Dehazing-NeRF: Neural Radiance Fields from Hazy Images](hhttps://arxiv.org/pdf/2304.11448.pdf)
+  - [arxiv 2023] [Dehazing-NeRF: Neural Radiance Fields from Hazy Images](https://arxiv.org/pdf/2304.11448.pdf)
   - [CVPR 2023] [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://arxiv.org/pdf/2211.12046.pdf) 丨 [[Project Page](https://dogyoonlee.github.io/dpnerf/)] 丨 [[Code](https://github.com/dogyoonlee/DP-NeRF)]
 
 
